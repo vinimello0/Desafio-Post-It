@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 62.5%;
+    background-color: rgb(107, 12, 12);
+    padding-bottom: 5em;
+}
+
+p {
+    font-size: 1.4em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+    font-size: 3em;
+    margin: .5em 0 1em 0; 
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    align-items: center;
+    width: 100%;
+}
+
+.row-post {
+    background-color: aliceblue;
+    display: block;
+    width: 30em;
+    height: 15em;
+    margin: 0 0 1.5em 0;
+    padding:1.5em 3em 1.5em 3em;
+}
+ 
